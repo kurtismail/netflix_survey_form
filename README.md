@@ -1,2 +1,2 @@
 # netflix_survey_form
-htrml form etiketi kullanılarak oluşturduğum sayfada kullanıcıdan geri bildirim istedim.
+html form selektörleri  kullanılarak oluşturduğum form sayfasında  kullanıcıdan geri bildirim isteyebiliyorum.
